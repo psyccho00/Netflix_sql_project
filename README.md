@@ -274,3 +274,12 @@ FROM netflix_titles;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+---
+
+
+## 👨‍💻 Author
+
+Developed by [psyccho00](https://github.com/psyccho00)
+
+---
